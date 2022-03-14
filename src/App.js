@@ -18,7 +18,7 @@ let people = [
         name: 'Chinmay',
         email: 'chinmayj20@iitk.ac.in',
         isMuted: true,
-        color : 'red'
+        color : 'reddishyellow'
     },
     {
         name : 'Ayush',
